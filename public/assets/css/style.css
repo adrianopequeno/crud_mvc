@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  margin: 20px;
+}
+
+hr {
+  margin-bottom: 20px;
+}
+
+table {
+  margin-top: 20px;
+}
+
+table th {
+  padding: 10px;
+  background-color: #999;
+}
+
+table tr td {
+  
+  padding: 10px;
+  text-align: center;
+}
+
+table tr:hover td {
+  background-color: #EEE;
+}
+
+table a {
+  text-decoration: none;
+}
+
+table tr img {
+  width: 32px;
+}
+
+.btn {
+  box-sizing: border-box;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 10px 8px;
+  background-color: aqua;
+  border-radius: 8px;
+}
+.btn:hover {
+  font-weight: bold;
+}
